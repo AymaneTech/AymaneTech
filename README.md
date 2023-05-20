@@ -1,22 +1,20 @@
-### Hi there 👋 My Name is aymane el maini, I'm a web developer student 
+Github Banner
+Hi , I'm Aymane el maini 
+68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966
 
-<!--
-AymaneTech/AymaneTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🔭 I’m currently working on My Agency website & a Dentist Website
-- 🌱 I’m currently learning to The Beckend development
-- 💬 Ask me about ...
-- 📫 How to reach me: My Instagram:  @call__me_aymane
-- My Linkedin:  Aymane El Maini
-- 
+💁‍♂️ About me
+🏫 I am a Junior Web Developer at YouCode .
+🧑‍💻 I love using Software as a solution for every Problem .
+💻 I am a competitive programmer .
+🧑‍🎓 I’m currently learning: Front End and Back End.
+🤔 I’m open for: An Intern or a new job opportunity.
+🤓 Always learning new things
+
+🌐 Socials:
+Linkedin Github Gmail
+
+
+
+About
