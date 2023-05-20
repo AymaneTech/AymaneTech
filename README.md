@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**AymaneTech/AymaneTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AymaneTech/AymaneTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->>>
+-->
+🔭 I’m currently working on My Agency website & a Dentist Website
+- 🌱 I’m currently learning to The Beckend development
+- 💬 Ask me about ...
+- 📫 How to reach me: My Instagram:  @call__me_aymane
+- My Linkedin:  Aymane El Maini
+- 
