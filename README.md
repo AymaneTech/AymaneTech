@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My Name is aymane el maini, I'm a web developer student 
 
 <!--
 AymaneTech/AymaneTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
