@@ -1,7 +1,7 @@
 <img src= "https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png">
 <h1 align="center">Hi 👋, I'm Aymane El Maini</h1>
 <h3 align="center">A passionate Web developer from Morocco</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=46F731&background=B0AEFF00&width=435&lines=Hello+World+!!!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=46F731&background=B0AEFF00&width=435&lines=Hello+World+!!!" alt="Typing SVG" /></a><br> <br>
 - 🔭 I’m currently working on **My Company Web site**
 
 - 🌱 I’m currently learning **Laravel & Backend**
