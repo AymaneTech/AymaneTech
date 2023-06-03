@@ -29,13 +29,13 @@
 
 ## 🤖 Work & Skills:
 
-- 🔭 I’m currently working on [My Agency Website](https://web-leaders-website.vercel.app/)
-- 🔭 and also working on [E-commerce Website (Carpet)](https://tapis-website.vercel.app/)
-- 👨‍💻 I’m currently learning ***PHP & Backend***
-- 👨‍💻 All of my projects are available at https://github.com/AymaneTech
+- 🔭 I’m currently working on [` My Agency Website ` ](https://web-leaders-website.vercel.app/)
+- 🔭 and also working on [` E-commerce Website (Carpet)` ](https://tapis-website.vercel.app/)
+- 👨‍💻 I’m currently learning ***PHP & Backen***
+- 👨‍💻 All of my projects are available at  [` AymaneTech `](https://github.com/AymaneTech)
 - 💬 Ask me about **Front end & python & C++**
-- 📫 How to reach me **[elmainiaymae03@gmail.com](mailto:elmainiaymae03@gmail.com)**
-- 📄 Know about my experiences [https://aymaneelmaini-com.vercel.app](https://aymaneelmaini-com.vercel.app/)
+- 📫 How to reach me [ `elmainiaymae03@gmail.com `](mailto:elmainiaymae03@gmail.com)
+- 📄 Know about my experiences [` aymaneelmaini.com `](https://aymaneelmaini-com.vercel.app/)
 - ⚡ Fun fact **I think I'm Funny**
     
 ## 🌐 Get in touch:
