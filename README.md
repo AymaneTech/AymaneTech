@@ -1,6 +1,6 @@
 <img src= "https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png">
 <h1 align="center">Hi 👋, I'm Aymane El Maini</h1>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=25F739&center=true&vCenter=true&multiline=true&width=435&lines=Hello+World+!!!" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img align="center" justify-content="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=25F739&center=true&vCenter=true&multiline=true&width=435&lines=Hello+World+!!!" alt="Typing SVG" /></a>
 <h3 align="center">A passionate Web developer from Morocco</h3>
 
 - 🔭 I’m currently working on **My Company Web site**
