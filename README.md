@@ -20,10 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aymaneelmaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aymaneelmaini" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aymane el maini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aymane el maini" height="30" width="40" /></a>
-<a href="https://fb.com/aymane el maini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aymane el maini" height="30" width="40" /></a>
-<a href="https://instagram.com/@call__me_aymane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@call__me_aymane" height="30" width="40" /></a>
+<a href="mailto:elmainiaymane03@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="aymaneelmaini" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/aymane el maini](https://www.linkedin.com/in/aymane-el-maini-b53725260/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aymane el maini" height="30" width="40" /></a>
+<a href="[https://fb.com/aymane el maini](https://www.facebook.com/aymane.elmaini.73)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aymane el maini" height="30" width="40" /></a>
+<a href="[https://instagram.com/@call__me_aymane](https://www.instagram.com/call___me_aymane/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@call__me_aymane" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
