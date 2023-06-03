@@ -20,14 +20,14 @@
       </p>
 <!-- markdownlint-enable MD033 -->
 
-## ⚡ About me
+## ⚡ About me:
 
 1. 🏫 I'm a  am a Junior Web Developer at ` ECOSTIG `.
 2. 🧑‍💻 I love using Software as a solution for every ` Problem ` .
 3. 🧑‍🎓 I’m currently learning: ` Front End ` and ` Back End `.
 4. 🤔 I’m open for: An ` Intern `.
 
-## 👨‍ What I'm doing
+## 🤖 Work & Skills:
 
 - 🔭 I’m currently working on [My Agency Website](https://web-leaders-website.vercel.app/)
 - 🔭 and also working on [E-commerce Website (Carpet)](https://tapis-website.vercel.app/)
@@ -38,7 +38,7 @@
 - 📄 Know about my experiences [https://aymaneelmaini-com.vercel.app](https://aymaneelmaini-com.vercel.app/)
 - ⚡ Fun fact **I think I'm Funny**
     
-## 🌐♂️ GET IN TOCH
+## 🌐 Get in touch:
 
 💙 If you like my profile, give it a ⭐ and share it with friends!
 
