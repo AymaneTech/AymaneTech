@@ -1,4 +1,5 @@
 <!-- markdownlint-disable MD033 MD041 -->
+<img src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/raw/main/banner.png" alt="Github Banner" style="max-width: 100%;">
 <p align="center">
   <h3 align="center">Hi 👋, I'm Aymane ElMaini </h3>
 </p>
