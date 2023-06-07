@@ -30,7 +30,7 @@
 ## 🤖 Work & Skills:
 
 - 🔭 I’m currently working on [` My Agency Website ` ](https://web-leaders-website.vercel.app/)
-- 🔭 and also working on [`Dentist Website` ](https://cliniquedusouris.vercel.app/)
+- 🔭 and also working on [`Dentist Website` ](https://cliniquedusourire.vercel.app)
 - 👨‍💻 I’m currently learning ***PHP & Backen***
 - 👨‍💻 All of my projects are available at  [` AymaneTech `](https://github.com/AymaneTech)
 - 💬 Ask me about **Front end & python & C++**
