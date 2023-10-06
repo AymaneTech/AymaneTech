@@ -22,7 +22,7 @@
 
 ## ⚡ About me:
 
-1. 🏫 I'm a  am a Junior Web Developer at ` ECOSTIG `.
+1. 🏫 I'm a Junior Web Developer at ` Youcode School `.
 2. 🧑‍💻 I love using Software as a solution for every ` Problem ` .
 3. 🧑‍🎓 I’m currently learning: ` Front End ` and ` Back End `.
 4. 🤔 I’m open for: An ` Intern `.
