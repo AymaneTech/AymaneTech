@@ -6,20 +6,10 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=52F714&width=435&lines=A+Passionate+Web+Developer+From+Morocco;From+Morocco" alt="Typing SVG" /></a>
-
 </p>
 
-<p align="center">
-  <a href="https://www.instagram.com/call___me_aymane" alt="Users" title="Repo users">
-<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30" height="30" alt="Instagram free icon" title="Instagram free icon">  <a href="https://www.facebook.com/aymane.elmaini.73" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" width="30" height="30" alt="" title="" class="img-small">
-    <a href="https://www.linkedin.com/in/aymane-el-maini-b53725260">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="30" height="30" alt="" title="" class="img-small"></a>
-    <a href="AymaneElMaini#2144">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="30" height="30" alt="" title="" class="img-small">
-      </p>
-<!-- markdownlint-enable MD033 -->
-<a href="https://app.daily.dev/aymaneelmaini"><img src="https://api.daily.dev/devcards/4c3a1b7fdbce437a8e2da7a7fc662ab9.png?r=uu1" width="400" alt="aymane el maini's Dev Card"/></a>
+<!-- Add a container for the about me section -->
+<div style="display: flex; flex-direction: column; align-items: center;">
 
 ## ⚡ About me:
 
@@ -43,8 +33,15 @@
 
 💙 If you like my profile, give it a ⭐ and share it with friends!
 
+</div>
 <!-- markdownlint-disable MD033 -->
+
 <p align="left">
   <a href="mailto:elmainiaymane03@gmail.com"><img alt="gmail" title="gmail" src="https://img.shields.io/badge/-GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/AymaneTech"><img alt="Github" title="Github" src="https://img.shields.io/badge/-GITHUB-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<!-- Add the link with display flex -->
+<p align="center" style="display: flex; justify-content: center; margin-top: 20px;">
+  <a href="https://app.daily.dev/aymaneelmaini"><img src="https://api.daily.dev/devcards/4c3a1b7fdbce437a8e2da7a7fc662ab9.png?r=uu1" width="400" alt="aymane el maini's Dev Card"/></a>
 </p>
