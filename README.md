@@ -19,6 +19,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="30" height="30" alt="" title="" class="img-small">
       </p>
 <!-- markdownlint-enable MD033 -->
+<a href="https://app.daily.dev/aymaneelmaini"><img src="https://api.daily.dev/devcards/4c3a1b7fdbce437a8e2da7a7fc662ab9.png?r=uu1" width="400" alt="aymane el maini's Dev Card"/></a>
 
 ## ⚡ About me:
 
