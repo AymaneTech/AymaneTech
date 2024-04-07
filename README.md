@@ -21,7 +21,7 @@
 ## 🤖 Work & Skills:
 
 - 🔭 I’m currently working on [` Youocde geeks platform ` ](https://web-leaders-website.vercel.app/)
-- 👨‍💻 I’m currently learning ***Laravel***
+- 👨‍💻 I’m currently using ***Laravel*** to build magic
 - 👨‍💻 All of my projects are available at  [` AymaneTech `](https://github.com/AymaneTech)
 - 💬 Ask me about **PHP, Laravel, React js, python**
 - 📫 How to reach me [ `elmainiaymae03@gmail.com `](mailto:elmainiaymae03@gmail.com)
