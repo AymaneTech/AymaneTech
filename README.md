@@ -20,11 +20,10 @@
 
 ## 🤖 Work & Skills:
 
-- 🔭 I’m currently working on [` My Agency Website ` ](https://web-leaders-website.vercel.app/)
-- 🔭 and also working on [`Dentist Website` ](https://cliniquedusourire.vercel.app)
-- 👨‍💻 I’m currently learning ***Django***
+- 🔭 I’m currently working on [` Youocde geeks platform ` ](https://web-leaders-website.vercel.app/)
+- 👨‍💻 I’m currently learning ***Laravel***
 - 👨‍💻 All of my projects are available at  [` AymaneTech `](https://github.com/AymaneTech)
-- 💬 Ask me about **Front end & python & C++**
+- 💬 Ask me about **PHP, Laravel, React js, python**
 - 📫 How to reach me [ `elmainiaymae03@gmail.com `](mailto:elmainiaymae03@gmail.com)
 - 📄 Know about my experiences [` aymaneelmaini.com `](https://aymaneelmaini-com.vercel.app/)
 - ⚡ Fun fact **I think I'm Funny**
