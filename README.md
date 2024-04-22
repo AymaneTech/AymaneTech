@@ -1,68 +1,51 @@
+
+```yaml
 version: "18.01.2024"
 
-full_name: Ahmed Ennaime
+full_name: Aymane El Maini
 
 location: [Morocco🇲🇦]
 
 hobbies:
-    - Football⚽
     - Traveling🌏
-    - Gaming🎮
     - Coding👨‍💻
 
 contacts:
-    email: ahmedennaime20@gmail.com
-    linkedin: Ahmed Ennaime
-    instagram: @ahmedennaime6
+    email: elmainiaymane@gmail.com
+    linkedin: Aymane El Maini
+    instagram: @coderaymane
 
 services:
     programming:
         programming languages:
-            - Java
-            - Golang
-            - Typescript
             - Javascript
             - Php
-            - Dart
             
         web frameworks:
-            - Springboot
+            - Laravel
             - Angular
             - React
-            - Vue
-            - Laravel
-            - NodeJs
-            - ExpressJs
             - TailwindCss
             - Bootstrap
-              
-        mobile frameworks:
-            - Flutter
-        
+                      
         databases:
             - PostgreSql
             - Mysql
-            - MongoDb
               
         tools:
             - Docker
-            - Kubernetes
             - Git
             - Github
-            - Gitlab
             
         architectures:
-            - Microservices
             - MVC
             - Rest Api
-            - gRpc
-            - GraphQl
     
     administration:
         systems:
             - Linux
-            - Macos
             - Windows
     
 
-certifications: [CCNA: Cisco Introduction to Networks]
+certifications: [Scrum Master Certification: Agile Enterpise Coach]
+```
