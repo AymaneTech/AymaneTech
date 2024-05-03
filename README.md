@@ -20,6 +20,7 @@ services:
         programming languages:
             - Javascript
             - Php
+            - Java
             
         web frameworks:
             - Laravel
