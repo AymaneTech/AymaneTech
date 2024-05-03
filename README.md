@@ -18,9 +18,10 @@ contacts:
 services:
     programming:
         programming languages:
+            - Java
             - Javascript
             - Php
-            - Java
+            - C
             
         web frameworks:
             - Laravel
