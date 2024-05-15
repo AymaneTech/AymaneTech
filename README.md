@@ -7,8 +7,10 @@ full_name: Aymane El Maini
 location: [Morocco🇲🇦]
 
 hobbies:
-    - Traveling🌏
     - Coding👨‍💻
+    - Coding👨‍💻
+    - Coding👨‍💻
+    - problem solving👨‍💻
 
 contacts:
     email: elmainiaymane@gmail.com
