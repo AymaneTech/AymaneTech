@@ -21,11 +21,13 @@ services:
     programming:
         programming languages:
             - Java
+            - Go
             - Javascript
             - Php
             - C
             
         web frameworks:
+            - Spring Boot
             - Laravel
             - Angular
             - React
