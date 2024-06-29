@@ -1,5 +1,3 @@
-
-```yaml
 version: "03.05.2024"
 
 full_name: Aymane El Maini
@@ -7,54 +5,52 @@ full_name: Aymane El Maini
 location: [Morocco🇲🇦]
 
 hobbies:
-    - Coding👨‍💻
-    - Coding👨‍💻
-    - Coding👨‍💻
-    - problem solving👨‍💻
+  - Coding👨‍💻
+  - Coding👨‍💻
+  - Coding👨‍💻
+  - Problem Solving👨‍💻
 
 contacts:
-    email: elmainiaymane@gmail.com
-    linkedin: [Aymane el Maini](https://www.linkedin.com/in/aymane-el-maini-b53725260/)
-    website: [My Personal website](https://aymaneelmaini.vercel.app/)
-    instagram: @coderaymane
+  email: elmainiaymane@gmail.com
+  linkedin: [Aymane el Maini](https://www.linkedin.com/in/aymane-el-maini-b53725260/)
+  website: [My Personal website](https://aymaneelmaini.vercel.app/)
+  instagram: @coderaymane
 
 services:
-    programming:
-        programming languages:
-            - Java
-            - Go
-            - Javascript
-            - Php
-            - C
-            - Python
-            
-        web frameworks:
-            - Spring Boot
-            - Laravel
-            - Angular
-            - React
-            - TailwindCss
-            - Bootstrap
-                      
-        databases:
-            - PostgreSql
-            - Mysql
-              
-        tools:
-            - Docker
-            - Git
-            - Github
-            
-        architectures:
-            - MVC
-            - DDD
-            - Rest Api
-    
-    administration:
-        systems:
-            - Linux
-            - Windows
-    
+  programming:
+    programming languages:
+      - Java
+      - Go
+      - JavaScript
+      - PHP
+      - C
+      - Python
+      
+    web frameworks:
+      - Spring Boot
+      - Laravel
+      - Angular
+      - React
+      - TailwindCss
+      - Bootstrap
+                  
+    databases:
+      - PostgreSQL
+      - MySQL
+        
+    tools:
+      - Docker
+      - Git
+      - GitHub
+      
+    architectures:
+      - MVC
+      - DDD
+      - Rest API
 
-certifications: [Scrum Master Certification: Agile Enterpise Coach]
-```
+  administration:
+    systems:
+      - Linux
+      - Windows
+
+certifications: [Scrum Master Certification: Agile Enterprise Coach]
