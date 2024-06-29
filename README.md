@@ -14,7 +14,8 @@ hobbies:
 
 contacts:
     email: elmainiaymane@gmail.com
-    linkedin: Aymane El Maini
+    linkedin: [Aymane el Maini](https://www.linkedin.com/in/aymane-el-maini-b53725260/)
+    website: [My Personal website](https://aymaneelmaini.vercel.app/)
     instagram: @coderaymane
 
 services:
@@ -25,6 +26,7 @@ services:
             - Javascript
             - Php
             - C
+            - Python
             
         web frameworks:
             - Spring Boot
@@ -45,6 +47,7 @@ services:
             
         architectures:
             - MVC
+            - DDD
             - Rest Api
     
     administration:
