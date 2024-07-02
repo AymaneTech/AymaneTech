@@ -1,3 +1,4 @@
+```yaml
 # 👋 Hi, I'm Aymane El Maini
 
 ## 🌍 About Me
@@ -36,3 +37,4 @@ Linux, Windows
 
 ## 🚀 Version
 Last Updated: 03.05.2024
+```
