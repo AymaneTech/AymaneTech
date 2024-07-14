@@ -8,8 +8,6 @@ developer:
   location: Morocco🇲🇦
   hobbies:
     - Coding👨‍💻
-    - Coding👨‍💻
-    - Coding👨‍💻
     - Problem Solving👨‍💻
 
 contacts:
