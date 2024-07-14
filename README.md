@@ -23,6 +23,7 @@ skills:
     - Java
     - Go
     - JavaScript
+    - Typescript
     - PHP
     - C
     - Python
@@ -32,6 +33,7 @@ skills:
     - Laravel
     - Angular
     - React
+    - Nextjs
     - TailwindCss
     - Bootstrap
             
