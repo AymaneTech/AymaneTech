@@ -11,7 +11,7 @@ developer:
     - Problem Solving👨‍💻
 
 contacts:
-  email: elmainiaymane@gmail.com
+  email: elmainiaymane03@gmail.com
   linkedin: https://www.linkedin.com/in/aymane-el-maini-b53725260/
   website: https://aymaneelmaini.vercel.app/
   instagram: "@coderaymane"
