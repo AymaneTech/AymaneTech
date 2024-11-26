@@ -19,21 +19,19 @@ contacts:
 skills:
   programming_languages:
     - Java
-    - Go
-    - JavaScript
+    - C/C++
     - Typescript
+    - JavaScript
+    - Go
     - PHP
-    - C
-    - Python
   
   web_frameworks:
-    - Spring Boot
+    - Spring Framework
     - Laravel
     - Angular
     - React
     - Nextjs
     - TailwindCss
-    - Bootstrap
             
   databases:
     - PostgreSQL
@@ -43,10 +41,11 @@ skills:
     - Docker
     - Git
     - GitHub
+    - Github Actions
   
   architectures:
-    - MVC
     - DDD
+    - MVC
     - Rest API
 
 administration:
