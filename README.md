@@ -19,6 +19,7 @@ contacts:
 skills:
   programming_languages:
     - Java
+    - Kotlin
     - C/C++
     - Typescript
     - JavaScript
