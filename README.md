@@ -22,7 +22,6 @@ skills:
     - Kotlin
     - C/C++
     - Typescript
-    - JavaScript
     - Go
     - PHP
   
