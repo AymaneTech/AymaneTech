@@ -50,8 +50,7 @@ skills:
 
 administration:
   systems:
-    - Linux
-    - Windows
+    - Linux: Linux is latin word means i don't use Windows
 
 certifications:
   - "Scrum Master Certification: Agile Enterprise Coach"
