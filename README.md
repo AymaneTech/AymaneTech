@@ -1,57 +1,29 @@
-```yaml
-# Aymane El Maini
+# Hey, I'm Aymane 👋
 
-version: "03.05.2024"
+Just another software engineer who refuses to use existing libraries when building things from scratch sounds way more fun.
 
-developer:
-  name: Aymane El Maini
-  location: Morocco🇲🇦
-  hobbies:
-    - Coding👨‍💻
-    - Problem Solving👨‍💻
+By day, I'm an **Associate Software Developer** at [ProgressSoft](https://www.progressoft.com/), working on payment processing systems and financial integrations that actually matter.
 
-contacts:
-  email: elmainiaymane03@gmail.com
-  linkedin: https://www.linkedin.com/in/aymane-el-maini-b53725260/
-  website: https://aymaneelmaini.vercel.app/
-  instagram: "@coderaymane"
+By night, I'm that person implementing interpreters, web servers, git clones, and databases in C/Java because apparently that's how I have fun. Currently working through:
+- 🔨 Building **clox** – a Lox interpreter in C (because understanding how languages work matters)
+- 🌍 Planning my own web server, git implementation, and database (the "reinvent the wheel" challenge)
+- 💡 Diving deep into low-level systems programming and compilers
 
-skills:
-  programming_languages:
-    - Java
-    - Kotlin
-    - C/C++
-    - Typescript
-    - Go
-    - PHP
-  
-  web_frameworks:
-    - Spring Framework
-    - Laravel
-    - Angular
-    - React
-    - Nextjs
-    - TailwindCss
-            
-  databases:
-    - PostgreSQL
-    - MySQL
-    
-  tools:
-    - Docker
-    - Git
-    - GitHub
-    - Github Actions
-  
-  architectures:
-    - DDD
-    - MVC
-    - Rest API
+**What I actually know:**
+- **Backend:** Java, Kotlin, Spring Boot, payment systems that don't lose money
+- **Systems:** C, memory management, actually understanding what's happening under the hood
+- **Databases:** PostgreSQL, MySQL, Oracle (and one day, my own)
+- **Tools:** Docker, Git, GitHub Actions, Linux (obviously)
 
-administration:
-  systems:
-    - Linux: Linux is latin word means i don't use Windows
+**Philosophy:** Clean code > clever code. Understanding > copy-pasting.
 
-certifications:
-  - "Scrum Master Certification: Agile Enterprise Coach"
-```
+---
+
+## Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/aymane-el-maini/)
+- 𝕏 [Twitter/X](https://x.com/MainiAymane)
+- 📧 [aymane.elmaini@progressoft.com](mailto:aymane.elmaini@progressoft.com)
+
+---
+
+*P.S. – If you're also into building things from first principles or have ideas about systems programming, let's talk. I'm always learning.*
