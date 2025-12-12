@@ -1,6 +1,6 @@
 # Hey, I'm Aymane 👋
 
-Just another software engineer who refuses to use existing libraries when building things from scratch sounds way more fun.
+Just another software engineer reinventing the wheel, nothing revolutionary.
 
 By day, I'm an **Associate Software Developer** at [ProgressSoft](https://www.progressoft.com/), working on payment processing systems and financial integrations that actually matter.
 
