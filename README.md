@@ -15,7 +15,7 @@ By night, I'm that person implementing interpreters, web servers, git clones, an
 - **Databases:** PostgreSQL, MySQL, Oracle (and one day, my own)
 - **Tools:** Docker, Git, GitHub Actions, Linux (obviously)
 
-**Philosophy:** Clean code > clever code. Understanding > copy-pasting.
+**Philosophy:** I love functional programming, and writing tests
 
 ---
 
