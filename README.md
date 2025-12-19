@@ -10,7 +10,7 @@ By night, I'm that person implementing interpreters, web servers, git clones, an
 - 💡 Diving deep into low-level systems programming and compilers
 
 **What I actually know:**
-- **Backend:** Java, Kotlin, Spring Boot, payment systems that don't lose money
+- **Backend:** Java, Kotlin, Spring Boot, payment systems that don't lose money, I used before other technologies like (php, laravel, next.js)
 - **Systems:** C, memory management, actually understanding what's happening under the hood
 - **Databases:** PostgreSQL, MySQL, Oracle (and one day, my own)
 - **Tools:** Docker, Kuburnetes, Git, GitHub Actions, Linux (obviously), Neovim (obviously)
