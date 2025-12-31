@@ -13,7 +13,8 @@ By night, I'm that person implementing and discovering how tools we use daily wo
 - **Backend:** Java, Kotlin, Spring Boot, payment systems that don't lose money, I used before other technologies like (php, laravel, next.js)
 - **Systems:** C, memory management, actually understanding what's happening under the hood
 - **Databases:** PostgreSQL, MySQL, Oracle (and one day, my own)
-- **Tools:** Docker, Kuburnetes, Git, GitHub Actions, Linux (obviously), Neovim (obviously)
+- **Tools:** Linux (obviously), Neovim (obviously), Ghostty, fzf, zoxide
+- **Devops:** OpenTelemtry, Datadog, and other observability tools, Docker, Podman, Kuburnetes, Git, GitHub Actions, Gitlab CI
 
 **Philosophy:** I love functional programming, and writing tests
 
