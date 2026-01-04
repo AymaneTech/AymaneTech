@@ -1,5 +1,3 @@
-# Hey, I'm Aymane 👋
-
 Just another software engineer reinventing the wheel, nothing revolutionary.
 
 Working as **Associate Software Developer** at [ProgressSoft](https://www.progressoft.com/), working on payment processing systems and financial integrations.
