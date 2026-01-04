@@ -2,12 +2,11 @@
 
 Just another software engineer reinventing the wheel, nothing revolutionary.
 
-By day, I'm an **Associate Software Developer** at [ProgressSoft](https://www.progressoft.com/), working on payment processing systems and financial integrations that actually matter.
+Working as **Associate Software Developer** at [ProgressSoft](https://www.progressoft.com/), working on payment processing systems and financial integrations.
 
-By night, I'm that person implementing and discovering how tools we use daily work behind the scenes using C because apparently that's how I have fun. Currently working through:
+By night, I'm working on personal projects to learn low level programming using C/C++ because apparently that's how I have fun. Currently working through:
 - 🔨 Building **clox** – a Lox interpreter in C (because why not)
 - 🌍 Planning my own web server, git implementation, and database (the "reinvent the wheel" challenge)
-- 💡 Diving deep into low-level systems programming and compilers
 
 **What I actually know:**
 - **Backend:** Java, Kotlin, Spring Boot, payment systems that don't lose money, I used before other technologies like (php, laravel, next.js)
